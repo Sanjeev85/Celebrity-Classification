@@ -15,4 +15,4 @@ Dataset contains 6 celebrities
 3. Roger Federrer
 4. Lionel Messi
 5. Maria Sharapova
-5. Narend Modi
+5. Shri. Narenda Modi
