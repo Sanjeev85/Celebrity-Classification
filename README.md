@@ -1,5 +1,6 @@
 # Celebrity-Classification
-Libraries used :
+<h3> Libraries used - </h3>
+
 1. opencv
 2. numpy
 3. matplotlib
@@ -8,7 +9,7 @@ Libraries used :
 6. pickle
 7. pywt
 
-Dataset contains 6 celebrities
+<h2> Dataset contains 6 celebrities </h3>
 
 1. Dr A.P.J. Abdul Kalam
 2. Ms Dhoni
